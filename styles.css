@@ -1,0 +1,24 @@
+*{
+	box-sizing: border-box;
+}
+
+html{
+	text-align:center;
+}
+
+.links a{
+	display: block;
+	color: #9E9E9E;
+	
+}
+
+#content{
+	margin: 10px;
+	display: inline-block;
+	font-family: Georgia;
+	background-color: #880E4F;
+	line-height: 1.5em;
+	padding: 10px;
+	font-size: 16px;
+	color: #FAFAFA;
+}
